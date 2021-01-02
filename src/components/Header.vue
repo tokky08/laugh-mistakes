@@ -1,7 +1,12 @@
 <template>
-  <header>
+  <!-- <header>
     失敗談を笑おう.com
-  </header>
+  </header> -->
+  <v-tabs>
+    <v-tab>Item One</v-tab>
+    <v-tab>Item Two</v-tab>
+    <v-tab>Item Three</v-tab>
+  </v-tabs>
 </template>
 
 <script>
